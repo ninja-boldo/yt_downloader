@@ -1,11 +1,11 @@
-# YouTube Video Downloader 🎬
+# Video Downloader 🎬
 
-Ein einfaches Tool zum Herunterladen von YouTube-Videos auf deinen Computer.
+Ein einfaches Tool zum Herunterladen von Videos auf deinen Computer.
 
 ## Was macht dieses Programm?
 
 Mit diesem Programm kannst du:
-- 📹 YouTube-Videos herunterladen
+- 📹 Videos herunterladen
 - 🎵 Nur den Ton (Audio) von Videos speichern
 - 🔗 Mehrere Videos zu einem zusammenfügen
 - 📝 Videos automatisch in Text umwandeln (Transkription)
